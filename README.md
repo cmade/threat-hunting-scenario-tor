@@ -280,6 +280,6 @@ In conclusion, the investigation confirms the download, installation, and active
 
 ## Response Taken
 
-TOR usage was confirmed on endpoint cwav3-test-mde  by the user employee. The device was isolated and the user's direct manager was notified.
+TOR usage was confirmed on endpoint **cwav3-test-mde**  by the user employee. The device was isolated and the user's direct manager was notified.
 
 ---
